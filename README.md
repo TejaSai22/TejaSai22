@@ -88,6 +88,18 @@ I'm a Data Science grad student at **UNT** (4.0 GPA, May 2026) who gets genuinel
       <img src="https://img.shields.io/badge/🍴_Forks-1-blue?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/TejaSai22/CodeLens">CodeLens</a></h3>
+      <p>_No description provided._</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/TejaSai22/multi-agent-ml-assistant">multi-agent-ml-assistant</a></h3>
+      <p>_No description provided._</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 <!-- PINNED-REPOS-END -->
 
