@@ -1,0 +1,39 @@
+name: Update Pinned Repos
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs every hour automatically
+  workflow_dispatch:        # lets you trigger it manually from GitHub Actions tab
+  push:
+    branches: [main]        # also runs whenever you push to main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to commit changes back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch pinned repos and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: auto-update pinned repos section"
+          git push
