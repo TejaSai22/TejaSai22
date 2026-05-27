@@ -59,44 +59,8 @@ I'm a Data Science grad student at **UNT** (4.0 GPA, May 2026) who gets genuinel
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/TejaSai22/cybAIr">cybAIr — Multi-Agent Cyber Defense</a></h3>
-      <p>Autonomous threat detection system powered by multi-agent orchestration. Combines RAG with FAISS + Neo4j, real-time streaming via Kafka, and local LLM inference with Ollama — all wired together through a FastAPI backend.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/TejaSai22/CHMS2">CHMS2 — Crop Health Monitoring</a></h3>
-      <p>End-to-end satellite imagery analysis pipeline for agricultural health monitoring. Uses XGBoost + LSTM on Sentinel-2 data with a Streamlit dashboard for real-time crop condition insights.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-189AC9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/TejaSai22/pathfinder2">Pathfinder — Career Matching Platform</a></h3>
-      <p>Full-stack career-matching platform built with React + TypeScript on the frontend and FastAPI + PostgreSQL on the backend. Designed for intelligent job-to-candidate alignment at scale.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/TejaSai22/LMS">LMS — Learning Management System</a></h3>
-      <p>Production-ready LMS built on Node.js with JWT-based auth, PostgreSQL for persistence, and Docker for deployment. Clean, scalable architecture designed for real classroom use.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<!-- PINNED-REPOS-START -->
+<!-- PINNED-REPOS-END -->
 
 ---
 
