@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+University+of+North+Texas;Multi-Agent+AI+%7C+RAG+Pipelines+%7C+LLMs;Building+things+at+the+edge+of+what%27s+possible)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teja-sai-srinivas-kunisetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teja-kunisetty)
 [![GitHub](https://img.shields.io/badge/GitHub-TejaSai22-181717?style=for-the-badge&logo=github)](https://github.com/TejaSai22)
-[![Email](https://img.shields.io/badge/Email-tejasaisrinivas22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasaisrinivas22@gmail.com)
-[![Location](https://img.shields.io/badge/Frisco%2C_Texas-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-tejasaisrin22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasaisrin22@gmail.com)
+[![Location](https://img.shields.io/badge/Dallas%2C_Texas-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
