@@ -63,41 +63,41 @@ I'm a Data Science grad student at **UNT** (4.0 GPA, May 2026) who gets genuinel
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/TejaSai22/pathfinder2">pathfinder2</a></h3>
-      <p>_No description provided._</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white"/>
+      <h3>🔗 <a href="https://github.com/TejaSai22/CodeLens">CodeLens</a></h3>
+      <p>Hybrid dense/sparse RAG-based codebase Q&A tool with tree-sitter chunking.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/TejaSai22/cybAIr">cybAIr</a></h3>
-      <p>_No description provided._</p>
+      <h3>🔗 <a href="https://github.com/TejaSai22/multi-agent-ml-assistant">multi-agent-ml-assistant</a></h3>
+      <p>Machine Learning pipeline with human-in-the-loop validation using LangGraph.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/⭐_Stars-1-yellow?style=flat-square"/>
-      <img src="https://img.shields.io/badge/🍴_Forks-1-blue?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔗 <a href="https://github.com/TejaSai22/CHMS2">CHMS2</a></h3>
-      <p>_No description provided._</p>
+      <p>Time-series remote sensing crop health monitoring and yield prediction.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/TejaSai22/LMS">LMS</a></h3>
-      <p>_No description provided._</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black"/>
-      <img src="https://img.shields.io/badge/🍴_Forks-1-blue?style=flat-square"/>
+      <h3>🔗 <a href="https://github.com/TejaSai22/pathfinder2">pathfinder2</a></h3>
+      <p>Specialized IT career matching platform for UNT College of Information.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/TejaSai22/CodeLens">CodeLens</a></h3>
-      <p>_No description provided._</p>
+      <h3>🔗 <a href="https://github.com/TejaSai22/cybAIr">cybAIr</a></h3>
+      <p>Multi-agent cyber threat response system using local LLMs (Ollama) and graph databases.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/⭐_Stars-1-yellow?style=flat-square"/>
+      <img src="https://img.shields.io/badge/🍴_Forks-1-blue?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/TejaSai22/multi-agent-ml-assistant">multi-agent-ml-assistant</a></h3>
-      <p>_No description provided._</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
+      <h3>🔗 <a href="https://github.com/TejaSai22/LMS">LMS</a></h3>
+      <p>Relational database modeling project for a Learning Management System.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black"/>
+      <img src="https://img.shields.io/badge/🍴_Forks-1-blue?style=flat-square"/>
     </td>
   </tr>
 </table>
