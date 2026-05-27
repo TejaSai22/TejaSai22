@@ -10,9 +10,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← add this line
     permissions:
-      contents: write       # needed to commit changes back to the repo
-
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
